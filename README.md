@@ -103,46 +103,31 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://freegpt.one/favicon.ico" width="32" height="32" /> | [FreeGPT](https://freegpt.one/) | **免费GPT服务**，支持多种模型，无需注册，直接使用 |
-| <img src="https://freelyai.liujiarong.online/favicon.ico" width="32" height="32" /> | [FreelyAi](https://freelyai.liujiarong.online) | **免登录**，DeepSeek 满血版免费使用，响应速度快 |
 | <img src="https://chat.freegpt.work/favicon.ico" width="32" height="32" /> | [免费ChatGPT API](https://chat.freegpt.work/) | **API服务**，多种模型，每日300次免费调用额度 |
-| <img src="https://chat.aibox365.cn/favicon.ico" width="32" height="32" /> | [AIBox](https://chat.aibox365.cn) | **一站式AI平台**，集成聊天、绘图、翻译等功能 |
-| <img src="https://44ai.cc/favicon.ico" width="32" height="32" /> | [44ai](https://44ai.cc/) | **国内镜像**，注册即可免费试用，界面友好 |
-| <img src="https://chatgptgratis.eu/favicon.ico" width="32" height="32" /> | [ChatGPT Gratis](https://chatgptgratis.eu/zh/chat.html) | **欧洲镜像**，GPT4-omni、llama3.1-405b，支持中文 |
-| <img src="https://ai1.yjie.fun/favicon.ico" width="32" height="32" /> | [ConversAI](https://ai1.yjie.fun) | **免费无限制**，支持 GPT4、豆包、联网搜索 |
-| <img src="https://g2.iswl.one/favicon.ico" width="32" height="32" /> | [ChatPro](https://g2.iswl.one) | **GPT4-to-mini** 无限次免费，响应迅速 |
 | <img src="https://easychat.fun/favicon.ico" width="32" height="32" /> | [EasyChat](https://easychat.fun/) | **免费GPT-4** 和 Claude 3.5，无需注册 |
 | <img src="https://www.lihaimao.com/favicon.ico" width="32" height="32" /> | [厉害猫AI](https://www.lihaimao.com/) | **免费问答**，2w+ 写作模式模板，内容生成丰富 |
 | <img src="https://chat.phitrellis.com/favicon.ico" width="32" height="32" /> | [DocGPT](https://chat.phitrellis.com/) | **免费GPT-4o mini**，支持上传文献进行分析 |
-| <img src="https://hammerai.pro/favicon.ico" width="32" height="32" /> | [HammerAI](https://hammerai.pro) | **公益站点**，免费提供 ChatGPT 服务 |
-| <img src="https://ssgpt.chat/favicon.ico" width="32" height="32" /> | [叔叔AI](https://ssgpt.chat/home) | **注册免费**，GPT-3.5免费使用，包月可使用GPT4o |
 | <img src="https://claude.free2gpt.xyz/icon.svg" width="32" height="32" /> | [免费Claude 3.5 Sonnet](https://claude.free2gpt.xyz) | **国内可用**，限120次/天，无需科学上网 |
-| <img src="https://myai.asia/favicon.ico" width="32" height="32" /> | [我的AI](https://myai.asia/) | **免登录无限制**，免费使用 ChatGPT4 |
 | <img src="https://chat.ai365vip.com/favicon.ico" width="32" height="32" /> | [AI365](https://chat.ai365vip.com/) | **免费多模型**，支持 GPT-3.5、GPT4o、Claude |
 | <img src="https://cos.vs98k.cn/2022/07/20220721020057315.png" width="32" height="32" /> | [毕方AI助手](https://www.bfbke.com/chatgpt) | **登录永久免费**，免费使用 GPT4 |
 | <img src="https://x.aichatos8.cn/downloadStep/chat8.ico" width="32" height="32" /> | [AIChatOS](https://x.aichatos8.cn) | **无限制GPT-3.5**，稳定可靠 |
-| <img src="https://www.opkfc.com/favicon.ico" width="32" height="32" /> | [数字玩家](https://www.opkfc.com) | **免费账户**，提供 ChatGPT 服务 |
 | <img src="https://chat.tinycms.xyz:3002/assets/favicon.svg" width="32" height="32" /> | [智能AI助手](https://chat.tinycms.xyz:3002/) | **免费GPT3.5**，免登录直接使用 |
 | <img src="https://chatgptplus.cn/assets/apple-touch-icon-BoQyAfJN.png" width="32" height="32" /> | [ChatGPTPlus.cn](https://chatgptplus.cn/) | **RawChat公益**，提供免费GPT服务 |
 | <img src="https://www.chat2chatgpt.com/favicon.ico" width="32" height="32" /> | [ChatGPT原生态](https://www.chat2chatgpt.com/?from=ai555) | **1:1复刻官方**，免登录无限使用 |
 | <img src="https://chat.weijiajin.com/favicon.ico" width="32" height="32" /> | [完全免费无广告GPT3.5](https://chat.weijiajin.com/) | **无广告**，纯GPT3.5服务 |
 | <img src="https://codenews.cc/favicon.ico" width="32" height="32" /> | [ChatGPT](https://codenews.cc/chatgpt) | **中文版**，永久免费无需登录 |
 | <img src="https://idea.chat.cloud.copilot.xr21.me/favicon.ico" width="32" height="32" /> | [X-Copilot](https://idea.chat.cloud.copilot.xr21.me/) | **多模型免费**，支持多种开源模型 |
-| <img src="https://xhlgpt.com/favicon.ico" width="32" height="32" /> | [小狐狸GPT](https://xhlgpt.com/) | **智能绘画+写作**，多功能AI助手 |
-| <img src="https://share.wendabao.net/favicon.ico" width="32" height="32" /> | [AI问答宝](https://share.wendabao.net/) | **免费GPT-4**，支持联网搜索和画图 |
-| <img src="https://www.usergpt.top/favicon.ico" width="32" height="32" /> | [ChatGPT镜像](https://www.usergpt.top) | **1:1复刻官方**，注册后可用所有模型 |
-| <img src="https://3am.com.hk/favicon.ico" width="32" height="32" /> | [3AM](https://3am.com.hk) | **免费无限制**，GPT3.5Turbo、Claude |
-| <img src="https://ai.yunyan.chat/favicon.ico" width="32" height="32" /> | [云衍AI](https://ai.yunyan.chat/chat) | **GPT3.5永久免费**，对接官方GPTS |
-| <img src="https://ideaiai.com/favicon.ico" width="32" height="32" /> | [创想AI](https://ideaiai.com/) | **免登录免费**，支持 GPT4、Midjourney 绘图 |
+
 | <img src="https://www.wu-ji.com/icon.svg?icon.0dtrwt0ku86lj.svg" width="32" height="32" /> | [无际AI](https://www.wu-ji.com/) | **ChatGPT3.5基础服务**，稳定可用 |
 | <img src="https://gpt-all.chat/favicon.ico" width="32" height="32" /> | [Chaos AI Assistant](https://gpt-all.chat/auth?type=register&invite=Mg) | **40+模型**，免费不限使用次数 |
 | <img src="https://www.ohmygpt.com/ohmygpt-logo-black.svg" width="32" height="32" /> | [OhMyGPT](https://www.ohmygpt.com/) | **每日免费150次**，登录即可使用 |
 | <img src="https://cnsgpt.fun/favicon.ico" width="32" height="32" /> | [CnsGPT.fun](https://cnsgpt.fun/) | **免翻直连**，免费稳定GPT3.5服务 |
-| <img src="https://chat.typegpt.net/favicon.ico" width="32" height="32" /> | [TypeGpt](https://chat.typegpt.net/) | **多模型无限制**，完全免费 |
+
 | <img src="https://heck.ai/favicon.ico" width="32" height="32" /> | [heck.ai](https://heck.ai/) | **100%免费GPT4o**，集成免费AI搜索 |
 | <img src="https://chat10.aiyunos.top/favicon.ico" width="32" height="32" /> | [AItianhu](https://chat10.aiyunos.top) | **无限制GPT-3.5**，持续免费 |
 | <img src="https://coai.drawaspark.com/favicon.ico" width="32" height="32" /> | [chatnio](https://coai.drawaspark.com) | **无限制DeepSeek-V3.1**，免费使用 |
 | <img src="https://chat-gpt-oss.com/chat-gpt-oss-logo.ico" width="32" height="32" /> | [Chat-GPT-OSS](https://chat-gpt-oss.com/) | **开源服务**，免费提供AI能力 |
-| <img src="https://chat.theb.ai/favicon.ico" width="32" height="32" /> | [BAI Chat](https://chat.theb.ai/) | **ChatGPT镜像**，界面简洁 |
+
 | <img src="https://chatforai.com/favicon.svg" width="32" height="32" /> | [Chat For AI](https://chatforai.com/) | **ChatGPT镜像**，功能完整 |
 | <img src="https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/favicon-16x16.png" width="32" height="32" /> | [Fast GPT](https://fastgpt.app/) | **ChatGPT镜像**，响应快速 |
 
@@ -183,7 +168,6 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://static.ima.qq.com/ima/assets/chat/favicon.svg" width="32" height="32" /> | [腾讯ima.copilot](https://ima.qq.com/) | **腾讯混元助手**，基于腾讯混元大模型，办公场景优化 |
 | <img src="https://beta.character.ai/favicon.ico" width="32" height="32" /> | [Character.AI](https://beta.character.ai/) | **角色扮演平台**，支持自定义角色，互动性强 |
 | <img src="https://filefront.oss-cn-hangzhou.aliyuncs.com/0_web/gnomic/home/gnomic-logo.svg" width="32" height="32" /> | [Gnomic智能体平台](https://www.gnomic.cn/) | **AI智能体平台**，构建和部署AI智能体 |
-| <img src="https://www.zaiwen.top/favicon.ico" width="32" height="32" /> | [在问](https://www.zaiwen.top/) | **AI问答平台**，专注问答场景，回答精准 |
 | <img src="https://www.teach-anything.com/favicon-32x32.png" width="32" height="32" /> | [Teach Anything](https://www.teach-anything.com/) | **快速教学AI**，输入任何主题，快速生成教学内容 |
 | <img src="https://openmao.panchuang.net/favicon.ico" width="32" height="32" /> | [开放猫](https://openmao.panchuang.net/) | **国产镜像**，ChatGPT风格，界面简洁 |
 
@@ -340,7 +324,6 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://neverwrite.app/favicon.ico?v=2" width="32" height="32" /> | [NeverWrite](https://neverwrite.app/) | **AI创意写作**，专注创意内容，风格多样 |
 | <img src="https://toolbaz.com/favicon.ico" width="32" height="32" /> | [Toolbaz](https://toolbaz.com/) | **AI创意写作**，多语言支持，内容丰富 |
 | <img src="https://rytr.me/favicon.ico?favicon.704b343f.ico" width="32" height="32" /> | [Rytr](https://rytr.me/) | **AI写作工具**，多种写作模板，快速生成 |
-| <img src="https://ai.wolian.chat/favicon.ico" width="32" height="32" /> | [范文喵](https://ai.wolian.chat/) | **大学生写作**，针对大学生群体，论文、报告 |
 | <img src="https://www.deepl.com/favicon.ico" width="32" height="32" /> | [DeepL Write](https://www.deepl.com/zh/write) | **DeepL写作**，AI驱动的写作助手，语言优化 |
 | <img src="https://wenzhang.zhuluan.com/favicon.ico" width="32" height="32" /> | 
 | <img src="https://heyfriday.cn/favicon.ico" width="32" height="32" /> | [Friday AI](https://heyfriday.cn/) | **智能写作系统**，多场景写作，效率提升 |
