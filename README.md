@@ -22,29 +22,28 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 - [五、编程与开发工具](#五编程与开发工具)
 - [六、写作与办公工具](#六写作与办公工具)
 - [七、AI 智能体与 API](#七ai-智能体与-api)
-- [八、AI 检测与安全](#八ai-检测与安全)
-- [九、浏览器插件](#九浏览器插件)
-- [十、AI 营销与 SEO](#十ai-营销与-seo)
-- [十一、AI 工具导航站](#十一ai-工具导航站)
-- [十二、AI 提示词与越狱](#十二ai-提示词与越狱)
-- [十三、AI 基准测试与排行榜](#十三ai-基准测试与排行榜)
-- [十四、机器学习](#十四机器学习)
-- [十五、本地 AI 部署](#十五本地-ai-部署)
+- [八、浏览器插件](#八浏览器插件)
+- [九、AI 营销与 SEO](#九ai-营销与-seo)
+- [十、AI 工具导航站](#十ai-工具导航站)
+- [十一、AI 提示词与越狱](#十一ai-提示词与越狱)
+- [十二、AI 基准测试与排行榜](#十二ai-基准测试与排行榜)
+- [十三、机器学习](#十三机器学习)
+- [十四、本地 AI 部署](#十四本地-ai-部署)
   - [本地前端](#本地前端)
   - [自托管工具](#自托管工具)
-- [十六、其他实用工具](#十六其他实用工具)
+- [十五、其他实用工具](#十五其他实用工具)
 
 ## 一、对话与聊天机器人
 
 ### 官方模型站点
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
-| <img src="https://chatgpt.com/favicon-eex17e9e.ico" width="32" height="32" /> | [ChatGPT](https://chatgpt.com/) | **OpenAI** 旗舰产品，GPT-5.5 Instant 极速响应，GPT-5.4 Mini Thinking 支持复杂推理，全球用户量最大的AI助手，支持多模态、代码生成、数据分析 |
+| <img src="https://chatgpt.com/cdn/assets/favicon-l4nq08hd.svg" width="32" height="32" /> | [ChatGPT](https://chatgpt.com/) | **OpenAI** 旗舰产品，GPT-5.5 Instant 极速响应，GPT-5.4 Mini Thinking 支持复杂推理，全球用户量最大的AI助手，支持多模态、代码生成、数据分析 |
 | <img src="https://chat.deepseek.com/chat/favicon.svg" width="32" height="32" /> | [DeepSeek](https://chat.deepseek.com/) | **深度求索** 国产高性能模型，V4-Pro 专家级推理能力，V4-Flash 极速响应，免费无限使用，代码能力强劲，支持超长上下文 |
-| <img src="https://chat.qwen.ai/favicon.ico" width="32" height="32" /> | [Qwen](https://chat.qwen.ai/) | **阿里通义** 开源模型系列，Qwen3.7-Max 顶级推理，Qwen3.7-Plus 均衡性能，支持多模态、长上下文，开源可商用 |
+| <img src="//assets.alicdn.com/g/qwenweb/qwen-chat-fe/0.2.66/favicon.png" width="32" height="32" /> | [Qwen](https://chat.qwen.ai/) | **阿里通义** 开源模型系列，Qwen3.7-Max 顶级推理，Qwen3.7-Plus 均衡性能，支持多模态、长上下文，开源可商用 |
 | <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" width="32" height="32" /> | [Gemini](https://gemini.google.com/) | **Google** 新一代旗舰模型，Gemini 3.1 Pro 全能推理，3.5 Flash 极速多模态，原生支持图像、视频、音频理解 |
-| <img src="https://aistudio.google.com/favicon.ico" width="32" height="32" /> | [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat) | **Google** 开发平台，免费体验 Gemini 3.1 Pro/3.5 Flash，支持 Prompt 调试、API 测试，开发者首选 |
+| <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" width="32" height="32" /> | [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat) | **Google** 开发平台，免费体验 Gemini 3.1 Pro/3.5 Flash，支持 Prompt 调试、API 测试，开发者首选 |
 | <img src="https://claude.ai/favicon.ico" width="32" height="32" /> | [Claude](https://claude.ai/) | **Anthropic** 安全优先模型，Claude Sonnet 4.6 平衡性能与速度，支持超长上下文（百万token），企业级安全合规 |
 | <img src="https://grok.com/images/favicon.svg" width="32" height="32" /> | [Grok](https://grok.com/) | **X/Twitter** 旗下模型，Grok 4.2 实时联网搜索，支持幽默风格回复，马斯克主推产品 |
 | <img src="https://www.kimi.com/favicon.ico" width="32" height="32" /> | [Kimi](https://www.kimi.com/) | **Moonshot** 国产长文本专家，K2.6 Thinking 支持百万级上下文，擅长文档理解、代码分析，中文优化极佳 |
@@ -58,7 +57,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://static.tiangong.cn/search/favicon.ico" width="32" height="32" /> | [天工](https://search.tiangong.cn/) | **昆仑万维** 超能AI，《最强大脑》特约合作，支持多模态、代码、创意写作 |
 | <img src="https://p1.ssl.qhimg.com/t0180f58567ac1a6ba5.png" width="32" height="32" /> | [360智脑](https://ai.360.com/) | **360** 安全AI，内置安全检测，家庭友好型，支持儿童模式 |
 | <img src="https://www.baichuan-ai.com/favicon.ico" width="32" height="32" /> | [百川大模型](https://www.baichuan-ai.com/home) | **百川智能** 开源模型，中文优化，支持商用授权，社区活跃 |
-| <img src="https://search-static-drcn.dbankcdn.com/celia/v2/favicon-transparent.ico" width="32" height="32" /> | [华为小艺](https://xiaoyi.huawei.com/chat/) | **华为** 智慧助手，HarmonyOS 深度集成，跨设备协同，隐私保护优先 |
+| <img src="https://search-static-drcn.dbankcdn.com/celia/v1/favicon-transparent.ico" width="32" height="32" /> | [华为小艺](https://xiaoyi.huawei.com/chat/) | **华为** 智慧助手，HarmonyOS 深度集成，跨设备协同，隐私保护优先 |
 | <img src="https://www.meta.ai/favicon.ico" width="32" height="32" /> | [Meta AI](https://www.meta.ai/) | **Meta** 开源模型平台，Muse Spark 多模态，免费无限使用，开源模型生态丰富 |
 | <img src="https://copilot.microsoft.com/favicon.ico" width="32" height="32" /> | [Microsoft Copilot](https://copilot.microsoft.com/) | **微软** AI 助手，整合 GPT-5.1，Office 365 深度集成，免费无限使用 |
 | <img src="https://chat.mistral.ai/favicon.ico" width="32" height="32" /> | [Mistral](https://chat.mistral.ai) | **Mistral AI** 欧洲顶尖模型，Mistral Large 3 高性能，开源可商用，欧盟数据合规 |
@@ -72,7 +71,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://dashboard.sarvam.ai/icon.svg?icon.088160iueq3g1.svg" width="32" height="32" /> | [Sarvam](https://dashboard.sarvam.ai/chat) | **Sarvam AI** 印度AI公司，多印度语言支持，Sarvam-105b/30b 双模型 |
 | <img src="https://publicai.co/favicon.ico" width="32" height="32" /> | [Apertus](https://publicai.co/chat) | **PublicAI** Apertus 70B，开源可商用，免费体验 |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Hy3-preview](https://huggingface.co/spaces/tencent/Hy3-preview) | **腾讯** Hy3 预览版，多模态模型，Hugging Face 上免费体验 |
-| <img src="https://www.reka.ai/favicon.ico" width="32" height="32" /> | [Reka](https://www.reka.ai/) | **Reka AI** Reka Flash 3.1，视觉理解强，多模态推理 |
+| <img src="https://framerusercontent.com/images/XekAjHcWv2prUE9pJiSj61CD54.jpg" width="32" height="32" /> | [Reka](https://www.reka.ai/) | **Reka AI** Reka Flash 3.1，视觉理解强，多模态推理 |
 | <img src="https://www.k2think.ai/static/favicon.ico" width="32" height="32" /> | [K2Think](https://www.k2think.ai/) | **LLM360/MBZUAI** 开源模型平台，透明可审计，学术研究导向 |
 | <img src="https://chat.inceptionlabs.ai/favicon.ico" width="32" height="32" /> | [Inception Chat](https://chat.inceptionlabs.ai/) | **Inception Labs** Mercury 2，数学推理强，免费无限使用 |
 | <img src="https://llama.meta.com/favicon.ico" width="32" height="32" /> | [Llama](https://llama.meta.com/) | **Meta** 开源旗舰，Llama 4 系列，完全开源可商用，社区生态最活跃 |
@@ -81,7 +80,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ### 多模型聚合站点
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://pollinations.ai/favicon.ico" width="32" height="32" /> | [Pollinations Chat](https://pollinations.ai/play) | **多模型聚合**，支持 DeepSeek V4 Pro、GLM-5.1、GPT-5.5、Grok 4.3，图像生成能力强，免费使用 |
 | <img src="https://build.nvidia.com/favicon.ico" width="32" height="32" /> | [NVIDIA NIM](https://build.nvidia.com/models) | **NVIDIA** 推理平台，聚合 GLM-5.1、Deepseek-v4-Pro、Kimi K2.6 等顶级模型，无需注册，免费体验 |
@@ -101,7 +100,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ### 免费/公益 ChatGPT 站点
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://freegpt.one/favicon.ico" width="32" height="32" /> | [FreeGPT](https://freegpt.one/) | **免费GPT服务**，支持多种模型，无需注册，直接使用 |
 | <img src="https://freelyai.liujiarong.online/favicon.ico" width="32" height="32" /> | [FreelyAi](https://freelyai.liujiarong.online) | **免登录**，DeepSeek 满血版免费使用，响应速度快 |
@@ -149,7 +148,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ### 专项与特色聊天机器人
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://notebooklm.google.com/favicon.ico" width="32" height="32" /> | [NotebookLM](https://notebooklm.google.com/) | **Google** 文档聊天工具，上传文件即可对话，支持长文档分析，教育场景优化 |
 | <img src="https://google.com/favicon.ico" width="32" height="32" /> | [Google AI Mode](https://google.com/aimode) | **Google** AI 搜索引擎，搜索结果直接由AI总结，引用来源，信息可信度高 |
@@ -157,7 +156,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://iask.ai/favicon.ico" width="32" height="32" /> | [iAsk AI](https://iask.ai/) | **研究型AI**，专注学术问答，引用学术来源，适合科研人员 |
 | <img src="https://exa.ai/search/images/favicon-32x32.png" width="32" height="32" /> | [Exa](https://exa.ai/search) | **AI搜索引擎**，实时搜索+AI总结，界面简洁，答案精准 |
 | <img src="https://www.alphaxiv.org/favicon.ico" width="32" height="32" /> | [Alphaxiv](https://www.alphaxiv.org/) | **论文研究助手**，整合 arXiv 论文，支持论文问答、文献检索 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Vane](https://github.com/ItzCrazyKns/Vane) | **开源AI搜索引擎**，可自托管，隐私保护，代码开源 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Vane](https://github.com/ItzCrazyKns/Vane) | **开源AI搜索引擎**，可自托管，隐私保护，代码开源 |
 | <img src="https://www.gstatic.com/education/tmx/images/icons/learn-about-x.png" width="32" height="32" /> | [Learn About](https://learning.google.com/experiments/learn-about) | **Google教育AI**，教育型AI搜索，专为学习设计，知识结构化展示 |
 | <img src="https://sci-bot.ru/favicon.ico" width="32" height="32" /> | [Sci-Bot](https://sci-bot.ru/) | **Sci-Hub研究助手**，整合学术资源，支持论文下载和问答 |
 | <img src="https://scispace.com/favicon.ico" width="32" height="32" /> | [SciSpace](https://scispace.com/) | **科研助手**，论文解读、文献分析，支持多种学术格式 |
@@ -190,7 +189,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ### 角色扮演聊天机器人
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://perchance.org/apple-touch-icon.png" width="32" height="32" /> | [Perchance](https://perchance.org/ai-character-chat) | **角色扮演+图像**，无需注册，支持NSFW内容，角色丰富 |
 | <img src="https://docs.sillytavern.app/favicon.ico" width="32" height="32" /> | [SillyTavern](https://docs.sillytavern.app/) | **自托管角色扮演**，完全开源，支持多种模型，高度自定义 |
@@ -212,7 +211,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ## 二、图像生成与绘画
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://labs.google/fx/icons/favicon/flow_favicon_b.png" width="32" height="32" /> | [Google Flow](https://labs.google/fx/tools/flow) | **Google** 图像生成工具，Nano Banana Pro/Nano Banana 2，生成质量高，支持多种风格 |
 | <img src="https://geminigen.ai/favicon.ico" width="32" height="32" /> | [GeminiGen AI](https://geminigen.ai/app/imagen) | **多模型图像生成**，支持 Nano Banana Pro/2、GPT IMAGE 2，一站式体验多种模型 |
@@ -249,21 +248,21 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ### 3D 图像生成
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://lumalabs.ai/favicons/favicon-black.ico" width="32" height="32" /> | [Genie](https://lumalabs.ai/genie) | **Luma Labs** 3D生成器，文本转3D模型，效果惊艳 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Shap-e](https://github.com/openai/shap-e) | **OpenAI** 开源3D生成器，文本生成3D模型，可自托管 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [threestudio](https://github.com/threestudio-project/threestudio) | **开源3D工具**，支持多种3D生成模型，高度可定制 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Shap-e](https://github.com/openai/shap-e) | **OpenAI** 开源3D生成器，文本生成3D模型，可自托管 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [threestudio](https://github.com/threestudio-project/threestudio) | **开源3D工具**，支持多种3D生成模型，高度可定制 |
 | <img src="https://lumalabs.ai/favicons/favicon-black.ico" width="32" height="32" /> | [Interactive Scenes](https://lumalabs.ai/interactive-scenes) | **Luma Labs** 生成交互式3D场景，沉浸式体验 |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) | **幻觉艺术生成**，创造超现实艺术图像，创意无限 |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) | **图像扩展**，AI图像外扩，无缝扩展图像边界 |
 
 ### 本地图像生成工具与资源
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://civitai.com/favicon-blue.ico" width="32" height="32" /> | [Civitai](https://civitai.com/) | **模型社区**，Stable Diffusion模型索引，最大的SD模型分享平台 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) | **资源合集**，AI图像资源汇总，工具列表丰富 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) | **资源合集**，AI图像资源汇总，工具列表丰富 |
 | <img src="https://www.prompy.me/favicon.ico" width="32" height="32" /> | [Prompy](https://www.prompy.me/) | **提示词索引**，分类整理的提示词库，提升生成效果 |
 | <img src="https://promptomania.com/favicon.ico" width="32" height="32" /> | [promptoMANIA](https://promptomania.com/) | **提示词工具**，提示词生成器，支持多种风格 |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) | **反向提示词**，从图像推导提示词，逆向工程 |
@@ -272,7 +271,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ## 三、视频生成
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard) | **视频基准排行榜**，对比各视频生成模型性能，权威参考 |
 | <img src="https://geminigen.ai/favicon.ico" width="32" height="32" /> | [GeminiGen AI](https://geminigen.ai/app/video-gen) | **多模型视频生成**，Veo 3.1/Sora 2/Grok/Meta，一站式体验 |
@@ -291,7 +290,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/common/images/dreamina-v3.ico" width="32" height="32" /> | [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) | **字节跳动视频**，120积分/日，界面精美 |
 | <img src="https://cdn.pixverse.ai/media/pixverse/favicon.svg" width="32" height="32" /> | [PixVerse](https://pixverse.ai/) | **视频生成**，3次/日，风格独特 |
 | <img src="https://www.genmo.ai/favicon.ico" width="32" height="32" /> | [Genmo](https://www.genmo.ai/) | **视频创作**，30次/月，创意视频生成 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [FramePack](https://github.com/colinurbs/FramePack-Studio) | **本地视频工具**，桌面应用，需NVIDIA GPU |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [FramePack](https://github.com/colinurbs/FramePack-Studio) | **本地视频工具**，桌面应用，需NVIDIA GPU |
 | <img src="https://www.eggnog.ai/favicon.ico" width="32" height="32" /> | [Eggnog](https://www.eggnog.ai/) | **角色视频混剪**，AI角色视频混剪+编辑器 |
 | <img src="https://pinokio.co/logo.png" width="32" height="32" /> | [Pinokio](https://pinokio.co/) | **插件式自托管**，模块化设计，可扩展 |
 | <img src="https://bibigpt.co/favicon.ico" width="32" height="32" /> | [BibiGPT](https://bibigpt.co/) | **音视频总结**，一键总结音视频内容 |
@@ -301,11 +300,11 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ## 四、音频生成
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://applio.org/favicon.ico" width="32" height="32" /> | [Applio](https://applio.org/) | **声音克隆**，无需注册，效果逼真，操作简单 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | **RVC声音克隆**，本地运行，开源免费，模型丰富 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Voice Changer](https://github.com/w-okada/voice-changer) | **实时变声器**，实时语音转换，支持多种声音效果 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | **RVC声音克隆**，本地运行，开源免费，模型丰富 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Voice Changer](https://github.com/w-okada/voice-changer) | **实时变声器**，实时语音转换，支持多种声音效果 |
 | <img src="https://voice-models.com/assets/media/logos/favicon.ico" width="32" height="32" /> | [Voice Models](https://voice-models.com/) | **语音模型库**，AI语音模型与使用指南，资源丰富 |
 | <img src="https://i0.wp.com/anyvoicelab.com/wp-content/uploads/2024/12/any-voice-lab-logo.png?fit=32%2C32&#038;ssl=1" width="32" height="32" /> | [AnyVoiceLab](https://anyvoicelab.com/voice-cloning/) | **声音克隆**，无需注册，快速克隆 |
 | <img src="https://www.allvoicelab.com/favicon.ico" width="32" height="32" /> | [AllVoiceLab](https://www.allvoicelab.com/) | **声音克隆平台**，专业级声音克隆服务 |
@@ -313,9 +312,9 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ## 五、编程与开发工具
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [GitHub Copilot](https://github.com/features/copilot/) | **GitHub AI助手**，代码补全、生成，IDE深度集成 |
+| <img src="https://github.githubassets.com/favicon.ico.png" width="32" height="32" /> | [GitHub Copilot](https://github.com/features/copilot/) | **GitHub AI助手**，代码补全、生成，IDE深度集成 |
 | <img src="https://www.cursor.so/favicon.ico" width="32" height="32" /> | [Cursor](https://www.cursor.so/) | **AI代码编辑器**，基于VSCode，GPT4驱动，代码生成能力强 |
 | <img src="https://cursor.com/marketing-static/favicon.ico" width="32" height="32" /> | [Cursor CLI](https://cursor.com/cn/cli) | **命令行工具**，编程脚本和自动化，效率提升 |
 | <img src="https://openai.com/favicon.ico" width="32" height="32" /> | [Codex](https://openai.com/zh-Hans-CN/codex/) | **OpenAI Codex**，代理编码指挥中心，理解代码上下文 |
@@ -323,7 +322,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" width="32" height="32" /> | [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/) | **AWS代码助手**，AI代码生成器，安全扫描 |
 | <img src="https://bito.ai/wp-content/uploads/2022/03/cropped-android-icon-192x192-1-32x32.png" width="32" height="32" /> | [Bito.ai](https://bito.ai/) | **AI编程辅助**，代码解释、重构，团队协作 |
 | <img src="https://codeium.com/favicon.ico" width="32" height="32" /> | [Codeium](https://codeium.com/) | **AI代码助手**，免费使用，多语言支持 |
-| <img src="https://kodezi.com/favicon.ico" width="32" height="32" /> | [Kodezi](https://kodezi.com/) | **AI编程助手**，代码调试、优化，开发者友好 |
+| <img src="https://framerusercontent.com/images/zcBYYQKY496RplBGA7RDLOQqI.png" width="32" height="32" /> | [Kodezi](https://kodezi.com/) | **AI编程助手**，代码调试、优化，开发者友好 |
 | <img src="https://cdn.replit.com/dotcom/favicon-rb-48.png" width="32" height="32" /> | [Replit Ghostwriter](https://replit.com/site/ghostwriter) | **Replit AI**，在线IDE集成，代码补全 |
 | <img src="https://www.fynix.ai/fynix-logo.png" width="32" height="32" /> | [Fynix.ai](https://www.fynix.ai/) | **AI编码助手**，专注编码效率，智能提示 |
 | <img src="https://regex.ai/favicon.png" width="32" height="32" /> | [Regex.ai](https://regex.ai/) | **AI正则生成**，自动生成正则表达式，省时高效 |
@@ -336,7 +335,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ## 六、写作与办公工具
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://textfx.withgoogle.com/static/favicon-32x32.png" width="32" height="32" /> | [TextFX](https://textfx.withgoogle.com/) | **Google创意写作**，AI创意写作工具，灵感激发 |
 | <img src="https://neverwrite.app/favicon.ico?v=2" width="32" height="32" /> | [NeverWrite](https://neverwrite.app/) | **AI创意写作**，专注创意内容，风格多样 |
@@ -344,11 +343,10 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://rytr.me/favicon.ico?favicon.704b343f.ico" width="32" height="32" /> | [Rytr](https://rytr.me/) | **AI写作工具**，多种写作模板，快速生成 |
 | <img src="https://ai.wolian.chat/favicon.ico" width="32" height="32" /> | [范文喵](https://ai.wolian.chat/) | **大学生写作**，针对大学生群体，论文、报告 |
 | <img src="https://www.deepl.com/favicon.ico" width="32" height="32" /> | [DeepL Write](https://www.deepl.com/zh/write) | **DeepL写作**，AI驱动的写作助手，语言优化 |
-| <img src="https://wenzhang.zhuluan.com/favicon.ico" width="32" height="32" /> | [朱鸾AI写作助手](https://wenzhang.zhuluan.com/) | **AI文章生成**，中文优化，内容创作 |
+| <img src="https://wenzhang.zhuluan.com/favicon.ico" width="32" height="32" /> | 
 | <img src="https://heyfriday.cn/favicon.ico" width="32" height="32" /> | [Friday AI](https://heyfriday.cn/) | **智能写作系统**，多场景写作，效率提升 |
 | [MotionGo](http://motion.yoo-ai.com/) | **PPT生成**，命令式一键生成PPT，演示文稿 |
 | <img src="https://writesonic.com/favicon.ico" width="32" height="32" /> | [Writesonic](https://writesonic.com/) | **AI写作工具**，营销内容、文案生成 |
-| <img src="https://www.1ptai.com/.css" width="32" height="32" /> | [OnePoint](https://www.1ptai.com/) | **AI办公助手**，聊天、编写、阅读和编码一体化 |
 | <img src="https://xiezuocat.com/favicon.ico" width="32" height="32" /> | [写作猫](https://xiezuocat.com/) | **秘塔写作猫**，AI语法检查、润色，中文优化 |
 | <img src="https://aibang.run/favicon-32x32.png" width="32" height="32" /> | [AI帮个忙](https://aibang.run/) | **多功能AI**，办公小帮手，效率工具 |
 | <img src="https://chatdoc.com/favicon.ico" width="32" height="32" /> | [ChatDOC](https://chatdoc.com/) | **PDF对话**，AI与PDF文档对话，信息提取 |
@@ -364,47 +362,37 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 ## 七、AI 智能体与 API
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://agentgpt.reworkd.ai/favicon.svg" width="32" height="32" /> | [AgentGPT](https://agentgpt.reworkd.ai/) | **AI智能体平台**，自主完成任务，多工具调用 |
 | <img src="https://aimlapi.com/app/favicon.ico" width="32" height="32" /> | [AIMLAPI](https://aimlapi.com/app/) | **API聚合**，300+ AI模型API，一站式接入 |
-| <img src="https://faucet.openkey.cloud/x.svg" width="32" height="32" /> | [openkey.cloud](https://faucet.openkey.cloud/) | **免费API**，免费ChatGPT API，开发者友好 |
-| <img src="https://www.talks-ai.com/favicon.ico" width="32" height="32" /> | [Talks-AI](https://www.talks-ai.com/) | **专属AI训练**，5分钟训练专属AI聊天机器人 |
-| <img src="https://toolbuilder.ai/favicon.ico" width="32" height="32" /> | [Toolbuilder.ai](https://toolbuilder.ai/) | **自定义AI**，可视化构建自定义AI工具 |
+| <img src="https://poixe.com/x.svg" width="32" height="32" /> | [openkey.cloud](https://faucet.openkey.cloud/) | **免费API**，免费ChatGPT API，开发者友好 |
 | <img src="https://open-gpt.app/favicon.png" width="32" height="32" /> | [Open-GPT](https://open-gpt.app/) | **ChatGPT应用**，扩展ChatGPT功能，插件生态 |
 | <img src="https://proxify.poixe.com/x.svg" width="32" height="32" /> | [Proxify](https://proxify.poixe.com) | **API反向代理**，开源轻量，隐私保护 |
-| <img src="https://www.ggwk.online/favicon.ico" width="32" height="32" /> | [ggwk](https://www.ggwk.online/) | **API服务**，Claude、GPT等API服务，稳定可靠 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Agent Reach](https://github.com/Panniantong/Agent-Reach) | **智能体连接**，将AI智能体连接到主流互联网平台 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Agent Reach](https://github.com/Panniantong/Agent-Reach) | **智能体连接**，将AI智能体连接到主流互联网平台 |
 
 > ⚠️ **安全警告**：许多智能体以 root 权限运行，建议不要授予完全磁盘/root访问权限，强烈建议在容器、VPS 或虚拟机中运行。
 
-## 八、AI 检测与安全
+## 八、浏览器插件
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
-| <img src="https://www.thomas.io/favicon.ico" width="32" height="32" /> | [Detect GPT](https://www.thomas.io/detect-gpt) | **内容真实性检测**，实时检查内容是否AI生成 |
-| <img src="https://detectortools.ai/favicon.ico" width="32" height="32" /> | [DetectorTools.ai](https://detectortools.ai/) | **多维度检测**，文本、深度伪造和代码的AI检测器 |
-
-## 九、浏览器插件
-
-| Logo | 名称 | 简介 |
-| :---: | --- | --- |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Page Assist](https://github.com/n4ze3m/page-assist) | **页面辅助**，浏览器扩展，页面操作增强 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [ChatGPT Box](https://github.com/josStorer/chatGPTBox) | **ChatGPT悬浮窗**，浏览器扩展，随时调用 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | **聊天记录保存**，浏览器扩展，保存ChatGPT对话 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Page Assist](https://github.com/n4ze3m/page-assist) | **页面辅助**，浏览器扩展，页面操作增强 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [ChatGPT Box](https://github.com/josStorer/chatGPTBox) | **ChatGPT悬浮窗**，浏览器扩展，随时调用 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | **聊天记录保存**，浏览器扩展，保存ChatGPT对话 |
 | <img src="https://www.fluentify.io/favicon.ico" width="32" height="32" /> | [Fluentify](https://www.fluentify.io/) | **划字提问**，选中文字即可AI问答，便捷高效 |
 | <img src="https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png" width="32" height="32" /> | [ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh) | **论文总结**，总结论文并提供关键见解 |
 | <img src="https://sharegpt.com/favicons/favicon-32x32.png" width="32" height="32" /> | [ShareGPT](https://sharegpt.com/) | **分享对话**，免费GPT，分享精彩对话 |
 | <img src="https://harpa.ai/favicon-128x128.png" width="32" height="32" /> | [HARPA AI](https://harpa.ai/) | **网页自动化**，AI驱动的网页操作自动化 |
 | <img src="https://chatgptwriter.ai/favicon.ico" width="32" height="32" /> | [Gmail AI](https://chatgptwriter.ai/) | **邮件生成**，Gmail邮件内容生成，效率提升 |
 | <img src="https://greasyfork.org/vite/assets/blacklogo16-DftkYuVe.png" width="32" height="32" /> | [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) | **导出聊天记录**，油猴脚本，导出ChatGPT对话 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [GPThemes](https://github.com/itsmartashub/GPThemes) | **ChatGPT主题**，美化ChatGPT界面，自定义外观 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [LightSession](https://github.com/11me/light-session) | **优化性能**，修复ChatGPT卡顿，提升体验 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) | **解除限制**，绕过ChatGPT内容审核 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [GPThemes](https://github.com/itsmartashub/GPThemes) | **ChatGPT主题**，美化ChatGPT界面，自定义外观 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [LightSession](https://github.com/11me/light-session) | **优化性能**，修复ChatGPT卡顿，提升体验 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) | **解除限制**，绕过ChatGPT内容审核 |
 
-## 十、AI 营销与 SEO
+## 九、AI 营销与 SEO
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://ai-mailer.com/favicon.ico" width="32" height="32" /> | [Ai Mailer](https://ai-mailer.com/) | **邮件生成**，AI生成邮件内容，营销邮件 |
 | <img src="https://cdn.prod.website-files.com/64a4aaf614f9983555a7fbe8/64e11a613759ac224c78c8b1_favicon.png" width="32" height="32" /> | [HoppyCopy](https://www.hoppycopy.co/) | **邮箱营销**，AI驱动的邮件营销，转化率优化 |
@@ -415,9 +403,9 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://seovendor.co/wp-content/uploads/2022/03/cropped-seovendor_logo_favicon-32x32.jpg" width="32" height="32" /> | [SEO GPT](https://seovendor.co/) | **网站SEO**，AI驱动的SEO优化，排名提升 |
 | <img src="https://www.yarnit.app/favicon.ico" width="32" height="32" /> | [Yarnit](https://www.yarnit.app/) | **PPT/海报**，AI生成PPT或海报，视觉内容 |
 
-## 十一、AI 工具导航站
+## 十、AI 工具导航站
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://llm-explorer.com/favicon.ico" width="32" height="32" /> | [LLM Explorer](https://llm-explorer.com/) | **LLM数据库**，LLM模型索引/对比，权威参考 |
 | <img src="https://www.futuretools.io/favicon.ico?favicon.0b3bf435.ico" width="32" height="32" /> | [FutureTools](https://www.futuretools.io/?pricing-model=free) | **AI工具目录**，最全AI工具目录，更新及时 |
@@ -446,22 +434,22 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.usbot.net/favicon.ico" width="32" height="32" /> | [AI导航星](https://www.usbot.net/) | **万级AI工具**，1万+ AI工具，分类详尽 |
 | <img src="https://www.aitoolsaver.com/aitoolsaver-favicon-new.ico" width="32" height="32" /> | [AI Tool Saver](https://www.aitoolsaver.com/) | **AI软件优惠**，AI软件优惠与精选，省钱利器 |
 
-## 十二、AI 提示词与越狱
+## 十一、AI 提示词与越狱
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://www.promptingguide.ai/144-favicon.svg" width="32" height="32" /> | [Prompt Engineering Guide](https://www.promptingguide.ai) | **提示词工程指南**，权威指南，学习提示词技巧 |
 | <img src="https://learnprompting.org/favicon.ico" width="32" height="32" /> | [LearnPrompting](https://learnprompting.org/docs/introduction) | **提示词学习**，系统学习提示词，入门到精通 |
 | <img src="https://platform.openai.com/favicon.png" width="32" height="32" /> | [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) | **OpenAI指南**，官方提示词指南，权威参考 |
 | <img src="https://docs.claude.com/favicon.ico" width="32" height="32" /> | [Claude Prompts](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering) | **Claude指南**，Claude官方提示词指南 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | **越狱提示词**，绕过AI安全限制的提示词集合 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | **提示词目录**，GPTs提示词目录，资源丰富 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Leaked Prompts](https://github.com/linexjlin/GPTs) | **泄露提示词**，GPTs提示词目录，实用收藏 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) | **系统提示词**，ChatGPT系统提示词研究 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) | **提示词库**，大型提示词库，分类整理 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | **越狱提示词**，绕过AI安全限制的提示词集合 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | **提示词目录**，GPTs提示词目录，资源丰富 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Leaked Prompts](https://github.com/linexjlin/GPTs) | **泄露提示词**，GPTs提示词目录，实用收藏 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) | **系统提示词**，ChatGPT系统提示词研究 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) | **提示词库**，大型提示词库，分类整理 |
 | <img src="https://rentry.org/favicon.ico" width="32" height="32" /> | [Jailbreak Listings](https://rentry.org/jb-listing) | **越狱列表**，提示词目录/越狱资源汇总 |
 | <img src="https://companion.injectprompt.com/assets/favicon-32x32.png?v=20250924" width="32" height="32" /> | [InjectPrompt Companion](https://companion.injectprompt.com/) | **越狱助手**，AI越狱提示词助手，辅助生成 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Heretic](https://github.com/p-e-w/heretic) | **反审查工具**，AI越狱/反审查工具 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Heretic](https://github.com/p-e-w/heretic) | **反审查工具**，AI越狱/反审查工具 |
 | <img src="https://www.promptfoo.dev/favicon.ico" width="32" height="32" /> | [promptfoo](https://www.promptfoo.dev/) | **提示词测试**，提示词测试沙盒，验证效果 |
 | <img src="https://tensortrust.ai/favicon.ico" width="32" height="32" /> | [Tensor Trust](https://tensortrust.ai/) | **提示词游戏**，提示词技巧游戏，趣味性学习 |
 | <img src="https://gandalf.lakera.ai/favicon.png" width="32" height="32" /> | [Gandalf](https://gandalf.lakera.ai/) | **提示词挑战**，提示词技巧游戏，挑战AI限制 |
@@ -470,9 +458,9 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 > ⚠️ **注意**：绕过聊天机器人安全机制（即越狱）违反大多数 AI 的服务条款，请自行承担风险。
 
-## 十三、AI 基准测试与排行榜
+## 十二、AI 基准测试与排行榜
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://lmcouncil.ai/images/Favicon.png?v=2" width="32" height="32" /> | [LM Council](https://lmcouncil.ai/benchmarks) | **AI基准索引**，AI基准测试索引/对比，权威排名 |
 | <img src="https://artificialanalysis.ai/favicon.ico" width="32" height="32" /> | [Artificial Analysis](https://artificialanalysis.ai/) | **多模态基准**，聊天、图像、视频基准测试 |
@@ -497,36 +485,36 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://arena.ai/images/favicon-rebrand.svg" width="32" height="32" /> | [WebDev Arena](https://arena.ai/leaderboard/code/webdev) | **Web开发排行**，Web开发AI排行榜 |
 | <img src="https://aider.chat/assets/icons/favicon-32x32.png" width="32" height="32" /> | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) | **Aider排行**，编程AI排行榜，代码助手评测 |
 
-## 十四、机器学习
+## 十三、机器学习
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | **ML框架索引**，机器学习框架索引，资源汇总 |
-| <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Hugging Face](https://huggingface.co/) | **ML平台**，机器学习数据集/模型，最活跃社区 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | **ML框架索引**，机器学习框架索引，资源汇总 |
+| <img src="https://huggingface.co/front/thumbnails/v2-2.png" width="32" height="32" /> | [Hugging Face](https://huggingface.co/) | **ML平台**，机器学习数据集/模型，最活跃社区 |
 | <img src="https://g.alicdn.com/sail-web/maas/2.13.95/favicon/128.ico" width="32" height="32" /> | [ModelScope](https://www.modelscope.ai/) | **阿里魔搭**，机器学习数据集/模型，中文社区 |
 | <img src="https://www.openml.org/favicon.ico" width="32" height="32" /> | [OpenML](https://www.openml.org/) | **ML数据集**，机器学习数据集，开放共享 |
 | <img src="https://playground.tensorflow.org/favicon.png" width="32" height="32" /> | [Deep playground](https://playground.tensorflow.org/) | **神经网络可视化**，TensorFlow可视化沙盒，学习利器 |
 | <img src="https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Ficon%252FUdYqQdRpLXMz6O8ejTLD%252Funsloth%2520sticker.png%3Falt%3Dmedia%26token%3D2a5ba961-51cb-4094-8545-6eb20ad1e06e&amp;width=48&amp;height=48&amp;sign=4a2dca42&amp;sv=2" width="32" height="32" /> | [Unsloth](https://unsloth.ai/docs/new/studio) | **LLM微调**，LLM微调/文本补全，高效训练 |
 | <img src="https://bbycroft.net/icon.png?9d3d9b98e68d2d0d" width="32" height="32" /> | [LLM Visualization](https://bbycroft.net/llm) | **Transformer可视化**，LLM内部工作原理可视化 |
 | <img src="https://poloclub.github.io/transformer-explainer/favicon.png" width="32" height="32" /> | [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) | **Transformer解释**，Transformer可视化解释，理解原理 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | **ML入门指南**，微软出品，机器学习入门 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | **ML入门指南**，微软出品，机器学习入门 |
 | <img src="https://microsoft.github.io/generative-ai-for-beginners/images/favicon-32x32.png" width="32" height="32" /> | [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) | **生成式AI指南**，微软出品，生成式AI入门 |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [HF Learn](https://huggingface.co/learn) | **HF学习资源**，Hugging Face学习资源，官方教程 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) | **ML课程笔记**，机器学习课程笔记，学术资料 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) | **ML课程笔记**，机器学习课程笔记，学术资料 |
 | <img src="https://aman.ai/favicon.jpg" width="32" height="32" /> | [aman.ai](https://aman.ai/) | **斯坦福笔记**，人工智能/深度学习斯坦福笔记，权威资料 |
 
-## 十五、本地 AI 部署
+## 十四、本地 AI 部署
 
 ### 本地前端
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://docs.sillytavern.app/favicon.ico" width="32" height="32" /> | [SillyTavern](https://docs.sillytavern.app/) | **角色扮演前端**，桌面应用，支持多种模型 |
 | <img src="https://openwebui.com/favicon.png" width="32" height="32" /> | [Open WebUI](https://openwebui.com/) | **Web UI**，开源Web界面，支持多模型 |
 | <img src="https://jan.ai/favicon.ico" width="32" height="32" /> | [Jan](https://jan.ai/) | **桌面应用**，本地AI桌面应用，隐私优先 |
 | <img src="https://lmstudio.ai/assets/marketing/logo-192x192.png" width="32" height="32" /> | [LM Studio](https://lmstudio.ai/) | **本地模型管理**，桌面应用，仅限自托管模型 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [oobabooga](https://github.com/oobabooga/textgen) | **Web UI**，开源Web界面，仅限自托管模型 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [GPT4Free](https://github.com/xtekky/gpt4free) | **桌面应用**，免费GPT桌面应用，聚合服务 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [oobabooga](https://github.com/oobabooga/textgen) | **Web UI**，开源Web界面，仅限自托管模型 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [GPT4Free](https://github.com/xtekky/gpt4free) | **桌面应用**，免费GPT桌面应用，聚合服务 |
 | <img src="https://msty.app/favicon.ico" width="32" height="32" /> | [Msty](https://msty.app/) | **桌面应用**，AI桌面应用，界面精美 |
 | <img src="https://www.cherry-ai.com/assets/favicon-BmbgeFTf.png" width="32" height="32" /> | [Cherry Studio](https://www.cherry-ai.com/) | **桌面应用**，AI桌面应用，功能丰富 |
 | <img src="https://locallyuncensored.com/favicon.svg" width="32" height="32" /> | [Locally Uncensored](https://locallyuncensored.com/) | **桌面应用**，无限制本地AI应用 |
@@ -537,28 +525,28 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://lollms.com/wp-content/uploads/2024/08/cropped-logo-32x32.png" width="32" height="32" /> | [LoLLMs](https://lollms.com/) | **Web UI**，开源Web界面，本地模型 |
 | <img src="https://anythingllm.com/favicon.ico" width="32" height="32" /> | [AnythingLLM](https://anythingllm.com/) | **桌面应用**，本地AI应用，文档支持 |
 | <img src="https://www.nomic.ai/favicon.ico" width="32" height="32" /> | [GPT4All](https://www.nomic.ai/gpt4all) | **自托管**，开源自托管AI，离线运行 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [tgpt](https://github.com/aandrew-me/tgpt) | **命令行工具**，LLM命令行界面，快速便捷 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [tgpt](https://github.com/aandrew-me/tgpt) | **命令行工具**，LLM命令行界面，快速便捷 |
 
 ### 自托管工具
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="data:image/svg+xml,%3csvg%20width='600'%20height='600'%20viewBox='0%200%20600%20600'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M600%20392L504.249%20558L504.137%20557.929C487.252%20584.069%20458.193%20600%20426.864%20600H120L240%20392H600Z'%20fill='%23111111'/%3e%3cpath%20d='M240%20392H0L199.602%2046.0254C216.032%2017.5463%20246.411%203.25756e-05%20279.29%200H466.154L240%20392Z'%20fill='%23111111'/%3e%3c/svg%3e" width="32" height="32" /> | [llama.cpp](https://llama.app/) | **LLM推理引擎**，自托管Transformer架构LLM，高效推理 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [KoboldCpp](https://github.com/LostRuins/koboldcpp) | **llama.cpp扩展**，llama.cpp+API+GUI，一站式 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [KoboldCpp](https://github.com/LostRuins/koboldcpp) | **llama.cpp扩展**，llama.cpp+API+GUI，一站式 |
 | <img src="https://aphrodite.pygmalion.chat/favicon.ico" width="32" height="32" /> | [Aphrodite Engine](https://aphrodite.pygmalion.chat/) | **大规模LLM服务**，高性能LLM推理服务 |
 | <img src="https://petals.dev/logo.svg" width="32" height="32" /> | [Petals](https://petals.dev/) | **分布式推理**，自托管，分布式LLM推理 |
 | <img src="https://getleon.ai/img/favicon.png" width="32" height="32" /> | [Leon](https://getleon.ai/) | **自托管助手**，开源自托管AI助手 |
 | <img src="https://ollama.com/public/icon-16x16.png" width="32" height="32" /> | [Ollama](https://ollama.com/) | **自托管平台**，最简单的本地LLM部署方案 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [llamafile](https://github.com/Mozilla-Ocho/llamafile) | **单文件LLM**，单文件运行LLM，便携部署 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [llamafile](https://github.com/Mozilla-Ocho/llamafile) | **单文件LLM**，单文件运行LLM，便携部署 |
 | <img src="https://localai.io/favicon.ico" width="32" height="32" /> | [LocalAI](https://localai.io/) | **自托管模型**，本地AI模型服务，兼容OpenAI API |
 | <img src="https://www.canirun.ai/favicon.svg" width="32" height="32" /> | [Can I Run AI Locally](https://www.canirun.ai/) | **硬件检测**，判断可本地运行的AI模型 |
 | <img src="https://whatmodelscanirun.com/favicon.svg" width="32" height="32" /> | [What Models?](https://whatmodelscanirun.com/) | **模型适配**，判断可本地运行的AI模型 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) | **API代理**，LLM API Key代理，密钥管理 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [Awesome Local LLM](https://github.com/rafska/awesome-local-llm/) | **本地LLM资源**，本地LLM平台/资源汇总 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) | **API代理**，LLM API Key代理，密钥管理 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Awesome Local LLM](https://github.com/rafska/awesome-local-llm/) | **本地LLM资源**，本地LLM平台/资源汇总 |
 
-## 十六、其他实用工具
+## 十五、其他实用工具
 
-| Logo | 名称 | 简介 |
+| 图标 | 名称 | 简介 |
 | :---: | --- | --- |
 | <img src="https://countless.dev/icon.ico" width="32" height="32" /> | [AI Price Compare](https://countless.dev/) | **价格对比**，AI/LLM API价格对比，省钱利器 |
 | <img src="https://www.llm-prices.com/favicon.png" width="32" height="32" /> | [LLM Pricing](https://www.llm-prices.com/) | **API定价**，AI/LLM API价格对比，实时更新 |
@@ -568,13 +556,11 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://privatiser.net/favicon.ico" width="32" height="32" /> | [Privatiser](https://privatiser.net/) | **数据匿名化**，匿名化敏感数据以供AI使用 |
 | <img src="https://www.bibcit.com/favicon.ico" width="32" height="32" /> | [MassiveMark](https://www.bibcit.com/en/massivemark) | **聊天记录转换**，将LLM聊天记录转换为DOCX |
 | <img src="https://screenpi.pe/favicon.ico" width="32" height="32" /> | [screenpipe](https://screenpi.pe/) | **AI屏幕录制**，AI驱动的屏幕录制和分析 |
-| <img src="https://github.githubassets.com/favicons/favicon" width="32" height="32" /> | [WhichLLM](https://github.com/Andyyyy64/whichllm) | **性能对比**，LLM性能对比工具，选择最优 |
+| <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [WhichLLM](https://github.com/Andyyyy64/whichllm) | **性能对比**，LLM性能对比工具，选择最优 |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) | **硬件计算**，LLM硬件需求计算器，配置参考 |
 | <img src="https://www.delilegal.com/favicon.ico" width="32" height="32" /> | [得理法律大模型](https://www.delilegal.com/) | **法律AI**，AI+律师的法律系统，专业服务 |
 | <img src="https://fsys.app/favicon.ico" width="32" height="32" /> | [风声雨声](https://fsys.app/) | **AI翻译**，AI驱动的翻译工具，多语言支持 |
 | <img src="https://wpdocs.chat/favicon-32x32.png" width="32" height="32" /> | [ChatWP](https://wpdocs.chat/) | **WordPress助手**，WordPress问题方案，开发者友好 |
-| <img src="https://rationale.jinaai.cn/favicon.ico" width="32" height="32" /> | [Rationale](https://rationale.jinaai.cn/) | **决策分析**，分析最优解，辅助决策 |
-| <img src="https://artifact.news/favicon.ico" width="32" height="32" /> | [Artifact](https://artifact.news/) | **AI新闻推送**，AI驱动的新闻推送，个性化 |
 | <img src="https://mottle.com/favicon.svg" width="32" height="32" /> | [Mottle](https://mottle.com/) | **自定义GPT**，构建自己的GPT，个性化助手 |
 | <img src="https://unlucid.ai/favicon.ico?v=1" width="32" height="32" /> | [Unlucid AI](https://unlucid.ai/) | **免费AI工具**，免费无限制AI工具，功能丰富 |
 | <img src="https://aicolors.co/ai-colors-assets/cropped-favicon-32x32.png" width="32" height="32" /> | [AI Colors](https://aicolors.co/) | **调色板生成**，AI调色板生成器，设计辅助 |
