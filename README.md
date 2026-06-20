@@ -331,7 +331,6 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://openclaw.ai/favicon.svg" width="32" height="32" /> | [OpenClaw](https://openclaw.ai/) | **行动AI**，真正执行代码的AI助手 |
 | <img src="https://cdn.qclaw.qq.com/qclaw/website/image/favicon.png" width="32" height="32" /> | [QClaw](https://qclaw.qq.com/) | **腾讯微信AI助手**，微信远程办公，协同开发 |
 
-> 更多 AI 编程工具详见：[FMHY AI Coding Tools](https://fmhy.net/developer-tools/#ai-tools)
 
 ## 六、写作与办公工具
 
@@ -345,7 +344,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.deepl.com/favicon.ico" width="32" height="32" /> | [DeepL Write](https://www.deepl.com/zh/write) | **DeepL写作**，AI驱动的写作助手，语言优化 |
 | <img src="https://wenzhang.zhuluan.com/favicon.ico" width="32" height="32" /> | 
 | <img src="https://heyfriday.cn/favicon.ico" width="32" height="32" /> | [Friday AI](https://heyfriday.cn/) | **智能写作系统**，多场景写作，效率提升 |
-| [MotionGo](http://motion.yoo-ai.com/) | **PPT生成**，命令式一键生成PPT，演示文稿 |
+| <img src="https://motion.yoo-ai.com/favicon.ico" width="32" height="32" /> | [MotionGo](http://motion.yoo-ai.com/) | **PPT生成**，命令式一键生成PPT，演示文稿 |
 | <img src="https://writesonic.com/favicon.ico" width="32" height="32" /> | [Writesonic](https://writesonic.com/) | **AI写作工具**，营销内容、文案生成 |
 | <img src="https://xiezuocat.com/favicon.ico" width="32" height="32" /> | [写作猫](https://xiezuocat.com/) | **秘塔写作猫**，AI语法检查、润色，中文优化 |
 | <img src="https://aibang.run/favicon-32x32.png" width="32" height="32" /> | [AI帮个忙](https://aibang.run/) | **多功能AI**，办公小帮手，效率工具 |
