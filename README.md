@@ -102,6 +102,28 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
+| <img src="https://anyrouter.top/favicon.ico" width="32" height="32" /> | [Any Router](https://anyrouter.top/) | **公益中转**，在线可用 |
+| <img src="https://windhub.cc/favicon.ico" width="32" height="32" /> | [Ark API](https://windhub.cc/) | **公益中转**，在线可用 |
+| <img src="https://elysiver.h-e.top/favicon.ico" width="32" height="32" /> | [『烁』公益站](https://elysiver.h-e.top/) | **公益中转**，在线可用 |
+| <img src="https://ai.huaibao.top/favicon.ico" width="32" height="32" /> | [Huainova](https://ai.huaibao.top/) | **公益中转**，在线可用，开放注册 |
+| <img src="https://ai.121628.xyz/favicon.ico" width="32" height="32" /> | [霸气公益平台](https://ai.121628.xyz/) | **公益中转**，在线可用 |
+| <img src="https://api.cnlion.qzz.io/favicon.ico" width="32" height="32" /> | [Cnlion](https://api.cnlion.qzz.io/) | **公益中转**，在线可用 |
+| <img src="https://aiapi.exe.xyz/favicon.ico" width="32" height="32" /> | [小丑](https://aiapi.exe.xyz/) | **公益中转**，在线可用 |
+| <img src="https://ai.gunddam.dpdns.org/favicon.ico" width="32" height="32" /> | [Gundam公益站](https://ai.gunddam.dpdns.org/) | **公益中转**，在线可用 |
+| <img src="https://ai.hybgzs.com/favicon.ico" width="32" height="32" /> | [黑与白公益站](https://ai.hybgzs.com/) | **公益中转**，在线可用 |
+| <img src="https://muyuan.do/favicon.ico" width="32" height="32" /> | [君の公益站](https://muyuan.do/) | **公益中转**，在线可用 |
+| <img src="https://api.42w.shop/favicon.ico" width="32" height="32" /> | [42 API](https://api.42w.shop/) | **公益中转**，在线可用 |
+| <img src="https://new-api.abrdns.com/favicon.ico" width="32" height="32" /> | [qq1244的公益站](https://new-api.abrdns.com/) | **公益中转**，在线可用 |
+| <img src="https://api.picpi.top/favicon.ico" width="32" height="32" /> | [picpi 工艺站](https://api.picpi.top/) | **公益中转**，在线可用 |
+| <img src="https://wzw.pp.ua/favicon.ico" width="32" height="32" /> | [WONG的公益站](https://wzw.pp.ua/) | **公益中转**，在线可用 |
+| <img src="https://chybenzun.top/favicon.ico" width="32" height="32" /> | [CHY 公益站](https://chybenzun.top/) | **公益中转**，在线可用 |
+| <img src="https://x666.me/favicon.ico" width="32" height="32" /> | [薄荷公益站](https://x666.me/) | **公益中转**，在线可用 |
+| <img src="https://wududu.edu.kg/favicon.ico" width="32" height="32" /> | [dudu公益站](https://wududu.edu.kg/) | **公益中转**，在线可用 |
+| <img src="https://jiuuij.de5.net/favicon.ico" width="32" height="32" /> | [Joverna公益站](https://jiuuij.de5.net) | **公益中转**，在线可用 |
+| <img src="https://zapi.aicc0.com/favicon.ico" width="32" height="32" /> | [ZhouMo公益站](https://zapi.aicc0.com/) | **公益中转**，在线可用 |
+| <img src="https://api.coee.ccwu.cc/favicon.ico" width="32" height="32" /> | [CoeeApi](https://api.coee.ccwu.cc/) | **公益中转**，在线可用 |
+| <img src="https://icoe.pp.ua/favicon.ico" width="32" height="32" /> | [冰の公益站](https://icoe.pp.ua/) | **公益中转**，在线可用 |
+| <img src="https://ai.prism.uno/favicon.ico" width="32" height="32" /> | [PrismAI 公益站](https://ai.prism.uno/) | **公益中转**，在线可用 |
 | <img src="https://freegpt.one/favicon.ico" width="32" height="32" /> | [FreeGPT](https://freegpt.one/) | **免费GPT服务**，支持多种模型，无需注册，直接使用 |
 | <img src="https://chat.freegpt.work/favicon.ico" width="32" height="32" /> | [免费ChatGPT API](https://chat.freegpt.work/) | **API服务**，多种模型，每日300次免费调用额度 |
 | <img src="https://easychat.fun/favicon.ico" width="32" height="32" /> | [EasyChat](https://easychat.fun/) | **免费GPT-4** 和 Claude 3.5，无需注册 |
