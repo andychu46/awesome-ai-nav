@@ -222,6 +222,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.bing.com/favicon.ico" width="32" height="32" /> | [Bing Create](https://www.bing.com/images/create) | **微软** GPT Image 1，无限免费使用，无需注册，直接生成 |
 | <img src="https://pollinations.ai/favicon.ico" width="32" height="32" /> | [Pollinations Chat](https://pollinations.ai/play) | **多模态平台**，支持 GPT Image 1.5、FLUX.1 Kontext Dev，图像生成质量高 |
 | <img src="https://www.dafreeai.site/favicon.svg" width="32" height="32" /> | [DaFreeAI](https://www.dafreeai.site/) | **免费图像生成**，GPT Image 2/Nano Banana Pro，Discord登录即可使用 |
+| <img src="https://image.tinchak0207.xyz/favicon.ico" width="32" height="32" /> | [Emu](https://image.tinchak0207.xyz) | **免费生图**，GPT Image 2/Nano Banana Pro，登录即用，生成完直接下载 |
 | <img src="https://perchance.org/apple-touch-icon.png" width="32" height="32" /> | [Perchance](https://perchance.org/ai-photo-generator) | **Chroma-Based生成**，无限免费使用，风格独特 |
 | <img src="https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/common/images/dreamina-v3.ico" width="32" height="32" /> | [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0) | **字节跳动**，Seedream 5.0 lite/Nano Banana，120积分/日，界面精美 |
 | <img src="https://chat.qwen.ai/favicon.ico" width="32" height="32" /> | [Qwen](https://chat.qwen.ai/) | **阿里通义**，30次/24小时，支持图像编辑，多模态能力 |
