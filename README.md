@@ -421,6 +421,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.futurepedia.io/favicon.ico?favicon.0gt653o.60x8s.ico" width="32" height="32" /> | [Futurepedia](https://www.futurepedia.io/) | **AI工具发现**，AI工具发现平台，社区活跃 |
 | <img src="https://www.aitop100.cn/favicon.ico" width="32" height="32" /> | [AI TOP100](https://www.aitop100.cn) | **国内AI工具**，国内AI工具、资讯、AIGC大赛 |
 | <img src="https://static.aihub.cn/wp-content/uploads/2023/06/cropped-aihub_logo-32x32.png" width="32" height="32" /> | [AIHub](https://www.aihub.cn/) | **优质AI工具**，最新优质AI工具推荐 |
+| <img src="https://aitoolsradar.com/favicon.ico" width="32" height="32" /> | [AI Tools Radar](https://aitoolsradar.com/) | **AI工具发现**，AI工具导航与产业资讯，发现、比较和追踪AI产品 |
 | <img src="https://www.aigc.cn/wp-content/uploads/2025/06/aigc-icon.png" width="32" height="32" /> | [AIGC导航](https://www.aigc.cn/) | **生成式AI导航**，生成式AI工具导航平台 |
 | <img src="https://www.uisdc.com/favicon.ico" width="32" height="32" /> | [优设AI导航](https://hao.uisdc.com/ai/) | **专业AIGC导航**，优设旗下，专业设计工具 |
 | <img src="https://www.ainavpro.com/favicon.ico" width="32" height="32" /> | [AI导航](https://www.ainavpro.com/) | **前沿AI产品**，最新最前沿的AI产品 |
