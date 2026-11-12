@@ -151,7 +151,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://chat-gpt-oss.com/chat-gpt-oss-logo.ico" width="32" height="32" /> | [Chat-GPT-OSS](https://chat-gpt-oss.com/) | **开源服务**，免费提供AI能力 |
 | <img src="https://chatforai.com/favicon.svg" width="32" height="32" /> | [Chat For AI](https://chatforai.com/) | **ChatGPT镜像**，功能完整 |
 | <img src="https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/favicon-16x16.png" width="32" height="32" /> | [Fast GPT](https://fastgpt.app/) | **ChatGPT镜像**，响应快速 |
-| <img src="https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/favicon-16x16.png" width="32" height="32" /> | [巨浪 AI ](https://jvlangai.com/) | **中转站比价**，中转站比价 |
+
 ### 专项与特色聊天机器人 (Specialized & Featured Chatbots)
 
 | 图标 | 名称 | 简介 |
@@ -187,6 +187,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://cdn.prod.website-files.com/687f2dca0cbe61df74670d33/688bc526788878e1fc86574e_favicon.png" width="32" height="32" /> | [YouGPT](https://you.com/) | **AI搜索聊天**，搜索+聊天一体化，结果精准 |
 | <img src="https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/coze-space/static/favicon2.ico" width="32" height="32" /> | [扣子](https://www.coze.cn/) | **智能体开发平台**，腾讯出品，可视化构建AI智能体 |
 | <img src="https://static.ima.qq.com/ima/assets/chat/favicon.svg" width="32" height="32" /> | [腾讯ima.copilot](https://ima.qq.com/) | **腾讯混元助手**，基于腾讯混元大模型，办公场景优化 |
+| <img src="https://assets.workbuddy.cn/web/workbuddy/5611ca0b566ae70e862617fecf6f3c8b05e5515a/assets/logo.svg" width="32" height="32" /> | [腾讯workbuddy](https://www.workbuddy.cn/) | **腾讯workbuddy**，智能办公助手 |
 | <img src="https://beta.character.ai/favicon.ico" width="32" height="32" /> | [Character.AI](https://beta.character.ai/) | **角色扮演平台**，支持自定义角色，互动性强 |
 | <img src="https://filefront.oss-cn-hangzhou.aliyuncs.com/0_web/gnomic/home/gnomic-logo.svg" width="32" height="32" /> | [Gnomic智能体平台](https://www.gnomic.cn/) | **AI智能体平台**，构建和部署AI智能体 |
 | <img src="https://www.teach-anything.com/favicon-32x32.png" width="32" height="32" /> | [Teach Anything](https://www.teach-anything.com/) | **快速教学AI**，输入任何主题，快速生成教学内容 |
@@ -555,6 +556,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://countless.dev/icon.ico" width="32" height="32" /> | [AI Price Compare](https://countless.dev/) | **价格对比**，AI/LLM API价格对比，省钱利器 |
 | <img src="https://www.llm-prices.com/favicon.png" width="32" height="32" /> | [LLM Pricing](https://www.llm-prices.com/) | **API定价**，AI/LLM API价格对比，实时更新 |
 | <img src="https://pricepertoken.com/Adobe Express - file.png" width="32" height="32" /> | [PricePerToken](https://pricepertoken.com/) | **Token价格**，AI/LLM API价格对比，精准计算 |
+| <img src="https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/favicon-16x16.png" width="32" height="32" /> | [巨浪 AI ](https://jvlangai.com/) | **中转站比价**，中转站比价 |
 | <img src="https://computer.tldraw.com/favicon.svg" width="32" height="32" /> | [tldraw computer](https://computer.tldraw.com/) | **工作流构建**，创建工作流以生成或转换数据 |
 | <img src="https://llm.datasette.io/favicon.ico" width="32" height="32" /> | [LLM](https://llm.datasette.io/) | **命令行工具**，LLM命令行工具，快速调用 |
 | <img src="https://privatiser.net/favicon.ico" width="32" height="32" /> | [Privatiser](https://privatiser.net/) | **数据匿名化**，匿名化敏感数据以供AI使用 |
