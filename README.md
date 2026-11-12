@@ -6,36 +6,36 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 [站点提交](https://github.com/andychu46/awesome-ai-nav/issues)
 
-## 目录
+## 目录 (Table of Contents)
 
-- [一、对话与聊天机器人](#一对话与聊天机器人)
-  - [官方模型站点](#官方模型站点)
-  - [多模型聚合站点](#多模型聚合站点)
-  - [免费/公益 中转站点](#免费公益-中转站点)
-  - [专项与特色聊天机器人](#专项与特色聊天机器人)
-  - [角色扮演聊天机器人](#角色扮演聊天机器人)
-- [二、图像生成与绘画](#二图像生成与绘画)
-  - [3D 图像生成](#3d-图像生成)
-  - [本地图像生成工具与资源](#本地图像生成工具与资源)
-- [三、视频生成](#三视频生成)
-- [四、音频生成](#四音频生成)
-- [五、编程与开发工具](#五编程与开发工具)
-- [六、写作与办公工具](#六写作与办公工具)
-- [七、AI 智能体与 API](#七ai-智能体与-api)
-- [八、浏览器插件](#八浏览器插件)
-- [九、AI 营销与 SEO](#九ai-营销与-seo)
-- [十、AI 工具导航站](#十ai-工具导航站)
-- [十一、AI 提示词与越狱](#十一ai-提示词与越狱)
-- [十二、AI 基准测试与排行榜](#十二ai-基准测试与排行榜)
-- [十三、机器学习](#十三机器学习)
-- [十四、本地 AI 部署](#十四本地-ai-部署)
-  - [本地前端](#本地前端)
-  - [自托管工具](#自托管工具)
-- [十五、其他实用工具](#十五其他实用工具)
+- [一、对话与聊天机器人 (Chatbots & Conversational AI)](#一对话与聊天机器人-chatbots--conversational-ai)
+  - [官方模型站点 (Official Model Sites)](#官方模型站点-official-model-sites)
+  - [多模型聚合站点 (Multi-Model Aggregators)](#多模型聚合站点-multi-model-aggregators)
+  - [免费/公益 中转站点 (Free / Public Relay Sites)](#免费公益-中转站点-free--public-relay-sites)
+  - [专项与特色聊天机器人 (Specialized & Featured Chatbots)](#专项与特色聊天机器人-specialized--featured-chatbots)
+  - [角色扮演聊天机器人 (Role-Play Chatbots)](#角色扮演聊天机器人-role-play-chatbots)
+- [二、图像生成与绘画 (Image Generation & Painting)](#二图像生成与绘画-image-generation--painting)
+  - [3D 图像生成 (3D Image Generation)](#3d-图像生成-3d-image-generation)
+  - [本地图像生成工具与资源 (Local Image Generation Tools & Resources)](#本地图像生成工具与资源-local-image-generation-tools--resources)
+- [三、视频生成 (Video Generation)](#三视频生成-video-generation)
+- [四、音频生成 (Audio Generation)](#四音频生成-audio-generation)
+- [五、编程与开发工具 (Coding & Developer Tools)](#五编程与开发工具-coding--developer-tools)
+- [六、写作与办公工具 (Writing & Office Tools)](#六写作与办公工具-writing--office-tools)
+- [七、AI 智能体与 API (AI Agents & APIs)](#七ai-智能体与-api-ai-agents--apis)
+- [八、浏览器插件 (Browser Extensions)](#八浏览器插件-browser-extensions)
+- [九、AI 营销与 SEO (AI Marketing & SEO)](#九ai-营销与-seo-ai-marketing--seo)
+- [十、AI 工具导航站 (AI Tool Directories)](#十ai-工具导航站-ai-tool-directories)
+- [十一、AI 提示词与越狱 (AI Prompts & Jailbreaks)](#十一ai-提示词与越狱-ai-prompts--jailbreaks)
+- [十二、AI 基准测试与排行榜 (AI Benchmarks & Leaderboards)](#十二ai-基准测试与排行榜-ai-benchmarks--leaderboards)
+- [十三、机器学习 (Machine Learning)](#十三机器学习-machine-learning)
+- [十四、本地 AI 部署 (Local AI Deployment)](#十四本地-ai-部署-local-ai-deployment)
+  - [本地前端 (Local Frontends)](#本地前端-local-frontends)
+  - [自托管工具 (Self-Hosted Tools)](#自托管工具-self-hosted-tools)
+- [十五、其他实用工具 (Other Useful Tools)](#十五其他实用工具-other-useful-tools)
 
-## 一、对话与聊天机器人
+## 一、对话与聊天机器人 (Chatbots & Conversational AI)
 
-### 官方模型站点
+### 官方模型站点 (Official Model Sites)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -78,7 +78,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.perplexity.ai/favicon.ico" width="32" height="32" /> | [Perplexity AI](https://www.perplexity.ai/) | **Perplexity** AI 搜索引擎，实时联网搜索，引用来源标注，答案可信度高 |
 | <img src="https://poe.com/favicon.ico" width="32" height="32" /> | [Poe](https://poe.com/) | **Quora** AI 聊天平台，聚合多种模型，支持 Claude、GPT、Gemini 等，界面简洁 |
 
-### 多模型聚合站点
+### 多模型聚合站点 (Multi-Model Aggregators)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -97,8 +97,10 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.atalk-ai.com/favicon.ico" width="32" height="32" /> | [海鲸AI](https://www.atalk-ai.com/talk) | **多模型聚合**，界面简洁，支持多种国产模型 |
 | <img src="https://search.100ai.fun/favicon.ico" width="32" height="32" /> | [100AI](https://search.100ai.fun/) | **一站式聚合**，集成 GPT-4o、Claude 等多种模型 |
 | <img src="https://pcpc.ai/favicon.ico" width="32" height="32" /> | [PcPc.AI](https://pcpc.ai/) | **一站式AI平台**，聚合多种聊天、绘图、写作工具 |
+| <img src="https://smart-agi.com/favicon.ico" width="32" height="32" /> | [Smart-AI](https://smart-agi.com/) | **中转站**，GLM / DeepSeek / Kimi / Claude |
 
-### 免费/公益 中转站点
+
+### 免费/公益 中转站点 (Free / Public Relay Sites)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -149,8 +151,8 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://chat-gpt-oss.com/chat-gpt-oss-logo.ico" width="32" height="32" /> | [Chat-GPT-OSS](https://chat-gpt-oss.com/) | **开源服务**，免费提供AI能力 |
 | <img src="https://chatforai.com/favicon.svg" width="32" height="32" /> | [Chat For AI](https://chatforai.com/) | **ChatGPT镜像**，功能完整 |
 | <img src="https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/favicon-16x16.png" width="32" height="32" /> | [Fast GPT](https://fastgpt.app/) | **ChatGPT镜像**，响应快速 |
-
-### 专项与特色聊天机器人
+| <img src="https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/favicon-16x16.png" width="32" height="32" /> | [巨浪 AI ](https://jvlangai.com/) | **中转站比价**，中转站比价 |
+### 专项与特色聊天机器人 (Specialized & Featured Chatbots)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -190,7 +192,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.teach-anything.com/favicon-32x32.png" width="32" height="32" /> | [Teach Anything](https://www.teach-anything.com/) | **快速教学AI**，输入任何主题，快速生成教学内容 |
 | <img src="https://openmao.panchuang.net/favicon.ico" width="32" height="32" /> | [开放猫](https://openmao.panchuang.net/) | **国产镜像**，ChatGPT风格，界面简洁 |
 
-### 角色扮演聊天机器人
+### 角色扮演聊天机器人 (Role-Play Chatbots)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -212,7 +214,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://lumiverse.chat/favicon.ico" width="32" height="32" /> | [Lumiverse](https://lumiverse.chat/) | **自托管角色扮演**，开源平台，隐私保护 |
 | <img src="https://rentry.org/favicon.ico" width="32" height="32" /> | [Sukino-Findings](https://rentry.org/Sukino-Findings) | **角色扮演资源**，收集各类AI角色扮演资源和教程 |
 
-## 二、图像生成与绘画
+## 二、图像生成与绘画 (Image Generation & Painting)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -249,7 +251,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://promptbase.com/assets/favicon/favicon-32x32.png" width="32" height="32" /> | [PromptBase](https://promptbase.com/) | **提示词市场**，DALL·E、Midjourney、Stable Diffusion提示词交易 |
 | <img src="https://app.hypotenuse.ai/favicon_ico/favicon-on-light-32x32.png" width="32" height="32" /> | [Hypotenuse AI](https://app.hypotenuse.ai/invited) | **内容+绘画**，文字内容和绘画一体化，适合营销内容 |
 
-### 3D 图像生成
+### 3D 图像生成 (3D Image Generation)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -260,7 +262,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) | **幻觉艺术生成**，创造超现实艺术图像，创意无限 |
 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) | **图像扩展**，AI图像外扩，无缝扩展图像边界 |
 
-### 本地图像生成工具与资源
+### 本地图像生成工具与资源 (Local Image Generation Tools & Resources)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -272,7 +274,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://stablehorde.net/favicon-32x32.png" width="32" height="32" /> | [AI Horde](https://stablehorde.net/) | **分布式算力**，Stable Diffusion GPU算力池，免费使用他人算力 |
 | <img src="https://www.iopaint.com/favicon.ico" width="32" height="32" /> | [IOPaint](https://www.iopaint.com/) | **图像编辑**，AI图像填充、物体移除，修复老照片 |
 
-## 三、视频生成
+## 三、视频生成 (Video Generation)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -301,7 +303,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.summarize.tech/favicon.ico" width="32" height="32" /> | [summarize.tech](https://www.summarize.tech/) | **YouTube摘要**，自动获取YouTube视频摘要 |
 | <img src="https://www.solidpoint.ai/favicon.ico" width="32" height="32" /> | [SolidPoint](https://www.solidpoint.ai/) | **视频中心思想**，自动提取视频核心内容 |
 
-## 四、音频生成
+## 四、音频生成 (Audio Generation)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -313,7 +315,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.allvoicelab.com/favicon.ico" width="32" height="32" /> | [AllVoiceLab](https://www.allvoicelab.com/) | **声音克隆平台**，专业级声音克隆服务 |
 | <img src="https://playground.zyphra.com/favicon.ico" width="32" height="32" /> | [Zyphra](https://playground.zyphra.com/audio) | **声音克隆**，Zyphra平台，高质量语音生成 |
 
-## 五、编程与开发工具
+## 五、编程与开发工具 (Coding & Developer Tools)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -335,7 +337,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://cdn.qclaw.qq.com/qclaw/website/image/favicon.png" width="32" height="32" /> | [QClaw](https://qclaw.qq.com/) | **腾讯微信AI助手**，微信远程办公，协同开发 |
 
 
-## 六、写作与办公工具
+## 六、写作与办公工具 (Writing & Office Tools)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -360,8 +362,9 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6793eea386b5ac27242bb8eb_favicon_32x32px%20(1).png" width="32" height="32" /> | [Copy.ai](https://www.copy.ai/) | **营销内容**，营销内容生成，广告文案 |
 | <img src="https://chatexcel.com/logo.svg" width="32" height="32" /> | [ChatExcel](https://chatexcel.com/convert) | **表格处理**，AI表格处理，Excel分析 |
 | <img src="https://excelformulabot.com/favicon.ico" width="32" height="32" /> | [Excelformulabot](https://excelformulabot.com/) | **公式生成**，Excel公式生成，数据处理 |
-
-## 七、AI 智能体与 API
+| <img src="https://ideahunter.today/favicon.ico" width="32" height="32" /> | [IdeaHunter](https://ideahunter.today/) | **创意生成**，AI创意生成，创意工具 |
+| <img src="https://innercanvas.app/favicon.ico" width="32" height="32" /> | [InnerCanvas](https://innercanvas.app) | **心理测试**，画图识别心理测试工具 |
+## 七、AI 智能体与 API (AI Agents & APIs)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -371,10 +374,10 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://open-gpt.app/favicon.png" width="32" height="32" /> | [Open-GPT](https://open-gpt.app/) | **ChatGPT应用**，扩展ChatGPT功能，插件生态 |
 | <img src="https://proxify.poixe.com/x.svg" width="32" height="32" /> | [Proxify](https://proxify.poixe.com) | **API反向代理**，开源轻量，隐私保护 |
 | <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Agent Reach](https://github.com/Panniantong/Agent-Reach) | **智能体连接**，将AI智能体连接到主流互联网平台 |
-
+| <img src="https://xquik.com/logo-square.png" width="32" height="32" /> | [Xquik](https://xquik.com/) | **X平台应用**， AI 智能体提供公开 X 数据。支持帖子情感分析、REST、MCP 与 SDK |
 > ⚠️ **安全警告**：许多智能体以 root 权限运行，建议不要授予完全磁盘/root访问权限，强烈建议在容器、VPS 或虚拟机中运行。
 
-## 八、浏览器插件
+## 八、浏览器插件 (Browser Extensions)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -391,7 +394,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [LightSession](https://github.com/11me/light-session) | **优化性能**，修复ChatGPT卡顿，提升体验 |
 | <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) | **解除限制**，绕过ChatGPT内容审核 |
 
-## 九、AI 营销与 SEO
+## 九、AI 营销与 SEO (AI Marketing & SEO)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -403,8 +406,8 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.shakespeare.ai/wp-content/uploads/2022/08/shakespeareIconNew-150x150.png" width="32" height="32" /> | [Shakespeare](https://www.shakespeare.ai/) | **营销写作**，AI营销内容，专业文案 |
 | <img src="https://seovendor.co/wp-content/uploads/2022/03/cropped-seovendor_logo_favicon-32x32.jpg" width="32" height="32" /> | [SEO GPT](https://seovendor.co/) | **网站SEO**，AI驱动的SEO优化，排名提升 |
 | <img src="https://www.yarnit.app/favicon.ico" width="32" height="32" /> | [Yarnit](https://www.yarnit.app/) | **PPT/海报**，AI生成PPT或海报，视觉内容 |
-
-## 十、AI 工具导航站
+| <img src="https://www.socialecho.cn/image/logo/Logo-icon.svg" width="32" height="32" /> | [SocialEcho](https://www.socialecho.cn) | **出海/跨境**，面向出海企业、跨境卖家、创作者和营销团队的全社媒 AI 工作台 |
+## 十、AI 工具导航站 (AI Tool Directories)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -435,7 +438,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.usbot.net/favicon.ico" width="32" height="32" /> | [AI导航星](https://www.usbot.net/) | **万级AI工具**，1万+ AI工具，分类详尽 |
 | <img src="https://www.aitoolsaver.com/aitoolsaver-favicon-new.ico" width="32" height="32" /> | [AI Tool Saver](https://www.aitoolsaver.com/) | **AI软件优惠**，AI软件优惠与精选，省钱利器 |
 
-## 十一、AI 提示词与越狱
+## 十一、AI 提示词与越狱 (AI Prompts & Jailbreaks)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -459,7 +462,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 
 > ⚠️ **注意**：绕过聊天机器人安全机制（即越狱）违反大多数 AI 的服务条款，请自行承担风险。
 
-## 十二、AI 基准测试与排行榜
+## 十二、AI 基准测试与排行榜 (AI Benchmarks & Leaderboards)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -486,7 +489,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://arena.ai/images/favicon-rebrand.svg" width="32" height="32" /> | [WebDev Arena](https://arena.ai/leaderboard/code/webdev) | **Web开发排行**，Web开发AI排行榜 |
 | <img src="https://aider.chat/assets/icons/favicon-32x32.png" width="32" height="32" /> | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) | **Aider排行**，编程AI排行榜，代码助手评测 |
 
-## 十三、机器学习
+## 十三、机器学习 (Machine Learning)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -504,9 +507,9 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) | **ML课程笔记**，机器学习课程笔记，学术资料 |
 | <img src="https://aman.ai/favicon.jpg" width="32" height="32" /> | [aman.ai](https://aman.ai/) | **斯坦福笔记**，人工智能/深度学习斯坦福笔记，权威资料 |
 
-## 十四、本地 AI 部署
+## 十四、本地 AI 部署 (Local AI Deployment)
 
-### 本地前端
+### 本地前端 (Local Frontends)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -528,7 +531,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://www.nomic.ai/favicon.ico" width="32" height="32" /> | [GPT4All](https://www.nomic.ai/gpt4all) | **自托管**，开源自托管AI，离线运行 |
 | <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [tgpt](https://github.com/aandrew-me/tgpt) | **命令行工具**，LLM命令行界面，快速便捷 |
 
-### 自托管工具
+### 自托管工具 (Self-Hosted Tools)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -545,7 +548,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) | **API代理**，LLM API Key代理，密钥管理 |
 | <img src="https://github.githubassets.com/favicon.ico" width="32" height="32" /> | [Awesome Local LLM](https://github.com/rafska/awesome-local-llm/) | **本地LLM资源**，本地LLM平台/资源汇总 |
 
-## 十五、其他实用工具
+## 十五、其他实用工具 (Other Useful Tools)
 
 | 图标 | 名称 | 简介 |
 | :---: | --- | --- |
@@ -567,7 +570,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://aicolors.co/ai-colors-assets/cropped-favicon-32x32.png" width="32" height="32" /> | [AI Colors](https://aicolors.co/) | **调色板生成**，AI调色板生成器，设计辅助 |
 
 
-## 最后
+## 最后 (Final Notes)
 [GitHub项目地址](https://github.com/andychu46/awesome-ai-nav/) 
 
 [站点提交](https://github.com/andychu46/awesome-ai-nav/issues)
