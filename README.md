@@ -336,6 +336,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://lf-cdn.marscode.cn/obj/marscode-bucket-cn/marscode-favicon.ico" width="32" height="32" /> | [豆包MarsCode AI](https://www.marscode.cn/chat-playground) | **豆包编程助手**，字节跳动出品，中文优化 |
 | <img src="https://openclaw.ai/favicon.svg" width="32" height="32" /> | [OpenClaw](https://openclaw.ai/) | **行动AI**，真正执行代码的AI助手 |
 | <img src="https://cdn.qclaw.qq.com/qclaw/website/image/favicon.png" width="32" height="32" /> | [QClaw](https://qclaw.qq.com/) | **腾讯微信AI助手**，微信远程办公，协同开发 |
+| <img src="https://www.vostride.com/icon.png?icon.1muy1ymeud8i8.png" alt="agent-qa" width="32" height="32" /> | [agent-qa](https://vostride.com) | **自然语言测试**，支持 Web、Android 和 iOS，持久记忆引擎与经验证的自我改进，可通过 MCP 调用 |
 
 
 ## 六、写作与办公工具 (Writing & Office Tools)
