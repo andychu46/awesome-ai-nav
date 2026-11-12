@@ -438,7 +438,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://ai-bot.cn/wp-content/uploads/2023/03/ai-bot-square-logo.png" width="32" height="32" /> | [AI-bot.cn](https://ai-bot.cn/) | **AI导航**，AI工具导航，简洁实用 |
 | <img src="https://www.usbot.net/favicon.ico" width="32" height="32" /> | [AI导航星](https://www.usbot.net/) | **万级AI工具**，1万+ AI工具，分类详尽 |
 | <img src="https://www.aitoolsaver.com/aitoolsaver-favicon-new.ico" width="32" height="32" /> | [AI Tool Saver](https://www.aitoolsaver.com/) | **AI软件优惠**，AI软件优惠与精选，省钱利器 |
-
+| <img src="https://www.uisdc.com/favicon.ico" width="32" height="32" /> | [优设AI导航](https://hao.uisdc.com/ai/) | **专业AIGC导航**，优设旗下，专业设计工具 |
 ## 十一、AI 提示词与越狱 (AI Prompts & Jailbreaks)
 
 | 图标 | 名称 | 简介 |
