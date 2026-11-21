@@ -86,6 +86,7 @@ AI 工具导航，快速筛选免费、实用、高效的网站资源
 | <img src="https://build.nvidia.com/favicon.ico" width="32" height="32" /> | [NVIDIA NIM](https://build.nvidia.com/models) | **NVIDIA** 推理平台，聚合 GLM-5.1、Deepseek-v4-Pro、Kimi K2.6 等顶级模型，无需注册，免费体验 |
 | <img src="https://chat.together.ai/favicon.ico" width="32" height="32" /> | [Together.ai](https://chat.together.ai/) | **Together** 模型聚合平台，GLM-5.1、Kimi K2.6、Deepseek-V4，每日免费上限110次，API服务完善 |
 | <img src="https://arena.ai/images/favicon-rebrand.svg" width="32" height="32" /> | [Arena](https://arena.ai/text/direct) | **多模型竞技场**，支持多种开源模型，需注册，可对比不同模型输出效果 |
+| <img src="https://studyarena.com/icon.png" width="32" height="32" /> | [StudyArena](https://studyarena.com) | **学习问答盲比**，并排比较同一道学习问题的 3 个 AI 回答，投票后揭晓模型。免费方案需注册 |
 | <img src="https://beta.ish.chat/favicon.ico?favicon.09-5vgk~a-46m.ico" width="32" height="32" /> | [ISH](https://beta.ish.chat/) | **ISH AI** 聚合 Claude Opus 4.8/Sonnet 4.6，GitHub账号登录即可使用 |
 | <img src="https://console.groq.com/favicon.ico" width="32" height="32" /> | [Groq](https://console.groq.com/playground) | **Groq** 极速推理平台，GPT-OSS-120B、Llama 3.3 70B，响应速度极快，免费有额度 |
 | <img src="https://chat.cerebras.ai/images/logo/cb-fav-32.png" width="32" height="32" /> | [Cerebras Chat](https://chat.cerebras.ai/) | **Cerebras** 超级计算机驱动，GLM-4.7、Qwen3-235B，推理性能卓越 |
